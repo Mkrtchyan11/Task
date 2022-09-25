@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+li {
+  cursor: pointer;
+}
+
+li:hover  {
+  text-decoration: underline;
+}
+
+.comments {
+}
+
+.active-post {
+}
+
+.bold {
+  font-style: 800;
+}
